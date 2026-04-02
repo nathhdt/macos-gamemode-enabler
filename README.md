@@ -4,7 +4,7 @@ enables macOS Game Mode for any app that does not trigger it natively
 
 ## what it does
 
-force macos game mode for any app. tricks the system by running a deprioritized native game in fullscreen to unlock lower bluetooth latency for wireless controllers and headphones with emulators, crossover, and more.
+force macOS Game Mode for any app. tricks the system by running a deprioritized native game in fullscreen to unlock lower bluetooth latency for wireless controllers and headphones with emulators, crossover, and more.
 
 ## requirements
 
